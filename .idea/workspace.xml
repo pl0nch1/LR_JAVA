@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="716e9769-6ec7-412c-a163-46783adb1d9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LR_JAVA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomCanvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR_JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LR_JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LR2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LR2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR2_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15527344",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -49,9 +52,10 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LR2_3">
+  <component name="RunManager" selected="Application.LR2_2">
     <configuration name="ClassTypesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClassTypesDemo" />
+      <module name="LR_JAVA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -64,7 +68,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LR2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LR2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR2_2" />
+      <module name="LR_JAVA" />
+      <option name="PROGRAM_PARAMETERS" value="dfghjnbvahsjhbfkjknhvgiuhoijknjbh vftgyuhas ftgsd t asd jhyuqkhdjsakd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LR2_3" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="zulu-13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="LR2_3" />
       <module name="LR_JAVA" />
       <option name="PROGRAM_PARAMETERS" value="ahsdhiouash 1231asd 67asdhuj ahdjaadasdqa123ad1 asd12asd" />
@@ -74,12 +88,13 @@
     </configuration>
     <list>
       <item itemvalue="Application.LR2_3" />
+      <item itemvalue="Application.LR2_2" />
       <item itemvalue="Application.ClassTypesDemo" />
       <item itemvalue="Application.LR2_1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LR2_3" />
+        <item itemvalue="Application.LR2_2" />
         <item itemvalue="Application.LR2_1" />
         <item itemvalue="Application.ClassTypesDemo" />
       </list>
